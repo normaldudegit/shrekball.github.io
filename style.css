@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #87CEEB; /* Sky Blue */
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    color: #fff;
+}
+
+#game-container {
+    margin-top: 20px;
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: #32CD32; /* Football Field Green */
+    display: block;
+    margin: 0 auto;
+}
